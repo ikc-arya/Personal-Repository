@@ -1,5 +1,4 @@
 # Personal-Repository
-Understanding the journey.
+
+Understanding the journey
 Now the fun begins : )
-
-
